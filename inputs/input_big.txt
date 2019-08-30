@@ -1,0 +1,36 @@
+Plateau:500 500
+Rover0 Landing:1 2 N
+Rover0 Instructions:LMLMLMLMM
+Rover1 Landing:1 2 N
+Rover1 Instructions:LMLMLMLMM
+Rover2 Landing:3 3 E
+Rover2 Instructions:MMRMMRMRRM
+Rover0 Instructions:LMLMLMLMM
+Rover0 Instructions:LMLMLMLMM
+Rover1 Landing:100 21 N
+Rover3 Landing:100 21 N
+Rover4 Landing:100 21 N
+Rover5 Landing:100 21 N
+Rover6 Landing:100 21 N
+Rover7 Landing:100 21 N
+Rover8 Landing:100 21 N
+Rover9 Landing:100 21 N
+Rover10 Landing:20 21 N
+Rover11 Landing:110 21 N
+Rover12 Landing:130 21 N
+Rover13 Landing:140 21 N
+Rover14 Landing:140 21 N
+Rover15 Landing:130 21 N
+Rover3 Instructions:RMRRRMRMRRMMM
+Rover4 Instructions:MMLRMLRMMRRM
+Rover11 Instructions:MMRMMRMRRM
+Rover7 Instructions:LRMLRRRM
+Rover8 Instructions:LRMLRRRM
+Rover6 Instructions:LRMLRRRM
+Rover9 Instructions:MMRMMMMMMMMMRRM
+Rover13 Instructions:MMLLMLLRLL
+Rover12 Instructions:MMLLMLLRLL
+Rover5 Instructions:LLLLRMMRRM
+Rover10 Instructions:MLLELLERRMMMMMM
+Rover14 Instructions:MLLELLERRMMMMMM
+Rover15 Instructions:MLLEMRMRRMMMMMM
